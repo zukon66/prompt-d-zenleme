@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PromptRefiner AI",
+  "description": "A surgical prompt editing tool that modifies specific parts of your prompt while keeping the original structure intact using Gemini AI.",
+  "requestFramePermissions": []
+}
